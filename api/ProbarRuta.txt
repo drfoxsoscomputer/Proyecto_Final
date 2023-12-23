@@ -1,0 +1,37 @@
+
+Ruta de login: 
+ruta: "http://localhost:3001/post/user/login"
+Ruta de post para pasword y post/login auth0:
+"http://localhost:3001/post/user
+este usuario se puede utilizar para postear y probar el login y los errores despues:
+  {
+    "email": "pepetukis22@gmail.com",
+    "password": "123455556",
+    "nickname": "",
+    "given_name": "",
+    "picture": "https://s.gravatar.com/avatar/7dd93ac86daf64e60740ae8c93259f82?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+    "sub": null
+  
+  }
+
+
+{
+    "email": "pepetukis@gmail.com",
+    "password": "1234",
+    "nickname": "",
+    "given_name": "",
+    "picture": "https://s.gravatar.com/avatar/7dd93ac86daf64e60740ae8c93259f82?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+    "sub": null
+
+  },
+
+  este es mi usuario real de auth0:
+
+  {
+"email": "antoniorodrigueztkd@gmail.com",
+    "password": null,
+    "nickname": "antoniorodrigueztkd",
+    "given_name": null,
+    "picture": "https://s.gravatar.com/avatar/7dd93ac86daf64e60740ae8c93259f82?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fan.png",
+    "sub": "auth0|655180ee7409f1302185cca9"
+}
