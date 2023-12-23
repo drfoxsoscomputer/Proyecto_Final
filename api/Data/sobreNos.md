@@ -6,7 +6,7 @@ Somos estudiantes de SoyHenry, del grupo cuatro (4)de PF, de la cohorte PT14b, e
 ## Integrantes: 
 
 ### Denis Piña:
-<img src="https://res.cloudinary.com/dmhxl1rpc/image/upload/v1702685892/denis_oxzjdj.jpg" alt="Denis Piña" style="max-width: 200px;">
+<img src="https://res.cloudinary.com/dmhxl1rpc/image/upload/c_scale,w_200/v1702685892/denis_oxzjdj.jpg" alt="Denis Piña" style="max-width: 200px;">
 
 
 ### Alexander Franco:
