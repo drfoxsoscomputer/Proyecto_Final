@@ -12,7 +12,6 @@ import { useDispatch } from "react-redux";
 import FormRegistrer from "./FormRegistrer";
 import Modal from "../../Modal/Modal";
 import logo from "../NavBar/logo.png";
-import { EyeFilledIcon, EyeSlashFilledIcon } from "./UtilsForms/iconos";
 import { CiMail } from "react-icons/ci";
 import { FaEye, FaEyeSlash } from "react-icons/fa";
 
